@@ -23,5 +23,5 @@ We only use python packages, of random to generate random numbers which is unavo
 Code Organization
 The code is extremely modular and neatly organized, into the Game,Card, and Player classes which all method lengths nice and short, as well as a python linter score of 6.82, which is very close to a 7 which is considered excellent!
 
-![alt text](game.png "Uno")
+![alt text](Uno/game.png "Uno")
 
